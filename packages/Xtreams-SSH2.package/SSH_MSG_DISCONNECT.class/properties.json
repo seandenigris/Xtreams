@@ -1,0 +1,7 @@
+{	"instvars" : [	"code",
+		"description",
+		"language" ],
+	"name" : "SSH_MSG_DISCONNECT",
+	"namespace" : "Xtreams",
+	"super" : "SSH2TransportMessage",
+	"superNamespace" : "Xtreams" }

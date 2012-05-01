@@ -1,0 +1,9 @@
+{	"imports" : "private Kernel.Compiler\\private Kernel.Promise\\private OS.IOConstants.*",
+	"instvars" : [	"worker",
+		"pty",
+		"exitStatus" ],
+	"name" : "SSH2Session",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2Channel",
+	"superNamespace" : "Xtreams" }

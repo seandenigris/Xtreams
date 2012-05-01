@@ -1,0 +1,7 @@
+{	"instvars" : [	"user",
+		"service",
+		"authentication" ],
+	"name" : "SSH_MSG_USERAUTH_REQUEST",
+	"namespace" : "Xtreams",
+	"super" : "SSH2UserAuthenticationMessage",
+	"superNamespace" : "Xtreams" }

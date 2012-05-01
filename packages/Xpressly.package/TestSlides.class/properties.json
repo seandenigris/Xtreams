@@ -1,0 +1,7 @@
+{	"instvars" : [	"a",
+		"b",
+		"c" ],
+	"name" : "TestSlides",
+	"namespace" : "Xtreams",
+	"super" : "Presentation",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,5 @@
+{	"name" : "HMACTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

@@ -1,0 +1,4 @@
+{	"instvars" : [	"encoding" ],
+	"name" : "StoreStringMarshaler",
+	"namespace" : "Xtreams",
+	"super" : "Object" }

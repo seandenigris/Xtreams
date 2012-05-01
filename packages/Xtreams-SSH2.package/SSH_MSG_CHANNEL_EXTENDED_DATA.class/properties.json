@@ -1,0 +1,6 @@
+{	"instvars" : [	"type",
+		"data" ],
+	"name" : "SSH_MSG_CHANNEL_EXTENDED_DATA",
+	"namespace" : "Xtreams",
+	"super" : "SSH2ChannelActionMessage",
+	"superNamespace" : "Xtreams" }

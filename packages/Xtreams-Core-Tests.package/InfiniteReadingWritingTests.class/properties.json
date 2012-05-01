@@ -1,0 +1,6 @@
+{	"imports" : "private Kernel.*",
+	"name" : "InfiniteReadingWritingTests",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadingWritingTest",
+	"superNamespace" : "Xtreams" }

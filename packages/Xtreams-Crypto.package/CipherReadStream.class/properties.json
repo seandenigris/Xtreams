@@ -1,0 +1,11 @@
+{	"instvars" : [	"input",
+		"output",
+		"cipher",
+		"blockSize",
+		"maxInputChunk",
+		"unconsumed" ],
+	"name" : "CipherReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

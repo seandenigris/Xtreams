@@ -1,0 +1,9 @@
+{	"imports" : "private OS.OSHandle\\private OS.Win32SystemSupport\\private External.*",
+	"instvars" : [	"library",
+		"handle",
+		"provider",
+		"bitSize" ],
+	"name" : "BCryptPrivateKey",
+	"namespace" : "Xtreams",
+	"super" : "PrivateKey",
+	"superNamespace" : "Xtreams" }

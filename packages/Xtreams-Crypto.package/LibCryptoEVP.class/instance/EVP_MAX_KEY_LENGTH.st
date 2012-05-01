@@ -1,0 +1,4 @@
+defines
+EVP_MAX_KEY_LENGTH
+	<C: #define EVP_MAX_KEY_LENGTH 32
+	>

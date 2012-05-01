@@ -1,0 +1,5 @@
+{	"name" : "HMAC",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Hash",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,3 @@
+{	"name" : "SCPWarning",
+	"namespace" : "Xtreams",
+	"super" : "Warning" }

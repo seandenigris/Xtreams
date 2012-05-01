@@ -1,0 +1,7 @@
+{	"instvars" : [	"output",
+		"buffer" ],
+	"name" : "RingBufferTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

@@ -1,0 +1,7 @@
+{	"instvars" : [	"sourceAtEnd",
+		"closeBlock" ],
+	"name" : "ReadSubstream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,4 @@
+accessing
+hashID
+
+	^'sha1'

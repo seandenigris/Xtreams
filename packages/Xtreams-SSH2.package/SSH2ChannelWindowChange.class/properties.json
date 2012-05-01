@@ -1,0 +1,9 @@
+{	"instvars" : [	"width",
+		"height",
+		"pixelWidth",
+		"pixelHeight" ],
+	"name" : "SSH2ChannelWindowChange",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2ChannelRequest",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,4 @@
+{	"imports" : "private OS.OSHandle\\private Tools.*",
+	"name" : "SecureRandom",
+	"namespace" : "Xtreams",
+	"super" : "Object" }

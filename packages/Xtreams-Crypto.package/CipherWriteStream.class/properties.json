@@ -1,0 +1,12 @@
+{	"imports" : "private External.*",
+	"instvars" : [	"input",
+		"output",
+		"cipher",
+		"blockSize",
+		"maxInputChunk",
+		"unconsumed" ],
+	"name" : "CipherWriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

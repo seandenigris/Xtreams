@@ -1,0 +1,9 @@
+{	"instvars" : [	"name",
+		"coreDumped",
+		"message",
+		"language" ],
+	"name" : "SSH2ChannelExitSignal",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2ChannelRequest",
+	"superNamespace" : "Xtreams" }

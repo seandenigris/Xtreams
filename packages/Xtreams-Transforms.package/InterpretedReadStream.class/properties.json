@@ -1,0 +1,10 @@
+{	"instvars" : [	"elementSize",
+		"cache",
+		"cacheSize",
+		"operation",
+		"contentsSpecies" ],
+	"name" : "InterpretedReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

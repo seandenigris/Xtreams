@@ -1,0 +1,8 @@
+{	"instvars" : [	"sockets",
+		"server",
+		"client",
+		"timeoutDuration" ],
+	"name" : "MultiplexingTest",
+	"namespace" : "Xtreams",
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

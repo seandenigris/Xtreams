@@ -1,0 +1,5 @@
+{	"name" : "CompressStreamTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

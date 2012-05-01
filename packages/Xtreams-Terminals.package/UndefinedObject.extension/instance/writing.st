@@ -1,0 +1,3 @@
+converting
+writing
+	^NullWriteStream new

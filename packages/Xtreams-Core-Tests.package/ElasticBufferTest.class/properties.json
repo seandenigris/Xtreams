@@ -1,0 +1,7 @@
+{	"instvars" : [	"output",
+		"buffer" ],
+	"name" : "ElasticBufferTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

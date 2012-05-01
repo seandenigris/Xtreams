@@ -1,0 +1,5 @@
+{	"name" : "BlockClosureTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

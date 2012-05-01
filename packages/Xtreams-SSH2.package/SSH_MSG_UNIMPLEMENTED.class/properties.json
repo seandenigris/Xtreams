@@ -1,0 +1,5 @@
+{	"instvars" : [	"packet" ],
+	"name" : "SSH_MSG_UNIMPLEMENTED",
+	"namespace" : "Xtreams",
+	"super" : "SSH2TransportMessage",
+	"superNamespace" : "Xtreams" }

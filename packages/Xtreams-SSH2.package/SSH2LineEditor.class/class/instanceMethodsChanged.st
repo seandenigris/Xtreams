@@ -1,0 +1,5 @@
+compiling
+instanceMethodsChanged
+
+	self initializeControlActions;
+		initializeEscapeActions

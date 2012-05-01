@@ -1,0 +1,5 @@
+{	"imports" : "private Security.*",
+	"name" : "SSH2KeysTest",
+	"namespace" : "Xtreams",
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

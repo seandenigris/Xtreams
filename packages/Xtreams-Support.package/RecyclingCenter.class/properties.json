@@ -1,0 +1,11 @@
+{	"classinstvars" : [	"objectspace1",
+		"fixedspace1",
+		"objectspaceN",
+		"fixedspaceN",
+		"cacheSize" ],
+	"instvars" : [	"recycled",
+		"mutex" ],
+	"name" : "RecyclingCenter",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Object" }

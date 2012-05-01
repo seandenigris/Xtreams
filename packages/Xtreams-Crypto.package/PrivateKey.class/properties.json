@@ -1,0 +1,6 @@
+{	"classinstvars" : [	"actionMap" ],
+	"imports" : "private OS.OSHandle\\private Tools.Pragma",
+	"instvars" : [	"type" ],
+	"name" : "PrivateKey",
+	"namespace" : "Xtreams",
+	"super" : "Object" }

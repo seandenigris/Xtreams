@@ -1,0 +1,4 @@
+{	"name" : "SSH_MSG_REQUEST_FAILURE",
+	"namespace" : "Xtreams",
+	"super" : "SSH2ChannelSetupMessage",
+	"superNamespace" : "Xtreams" }

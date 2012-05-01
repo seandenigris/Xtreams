@@ -1,0 +1,5 @@
+{	"instvars" : [	"connection" ],
+	"name" : "SSH2Service",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Object" }

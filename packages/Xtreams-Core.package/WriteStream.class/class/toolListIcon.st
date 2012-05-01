@@ -1,0 +1,4 @@
+accessing
+toolListIcon
+	
+	^BehaviorIcons WriteStream

@@ -1,0 +1,8 @@
+{	"imports" : "private OS.*",
+	"instvars" : [	"input",
+		"output" ],
+	"name" : "PipeTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

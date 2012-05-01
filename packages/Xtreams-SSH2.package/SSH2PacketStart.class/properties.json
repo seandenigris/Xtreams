@@ -1,0 +1,4 @@
+{	"name" : "SSH2PacketStart",
+	"namespace" : "Xtreams",
+	"super" : "SSH2PacketAnnouncement",
+	"superNamespace" : "Xtreams" }

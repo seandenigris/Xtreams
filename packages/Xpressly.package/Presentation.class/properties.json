@@ -1,0 +1,10 @@
+{	"imports" : "private Tools.Pragma\\private PEG.SlideGenerator\\private Tools.WorkspaceVariablePool\\private Smalltalk.Root\\private Kernel.Undeclared\\private External.ExternalInterface\\private UI.*\\private Graphics.*",
+	"instvars" : [	"slides",
+		"locals",
+		"style",
+		"titleStyle",
+		"previousSlideIndex" ],
+	"name" : "Presentation",
+	"namespace" : "Xtreams",
+	"super" : "ApplicationModel",
+	"superNamespace" : "UI" }

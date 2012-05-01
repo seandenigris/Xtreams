@@ -1,0 +1,8 @@
+{	"imports" : "private OS.*",
+	"instvars" : [	"output",
+		"input" ],
+	"name" : "ReadingWritingTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

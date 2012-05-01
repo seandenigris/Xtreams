@@ -1,0 +1,4 @@
+{	"imports" : "private UI.SimplePasswordDialog",
+	"name" : "SSH2PasswordRequest",
+	"namespace" : "Xtreams",
+	"super" : "Exception" }

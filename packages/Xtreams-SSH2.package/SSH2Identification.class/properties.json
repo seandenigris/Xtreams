@@ -1,0 +1,6 @@
+{	"instvars" : [	"incoming",
+		"version" ],
+	"name" : "SSH2Identification",
+	"namespace" : "Xtreams",
+	"super" : "SSH2Announcement",
+	"superNamespace" : "Xtreams" }

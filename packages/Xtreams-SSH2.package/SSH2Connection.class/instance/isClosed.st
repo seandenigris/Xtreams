@@ -1,0 +1,4 @@
+api
+isClosed
+
+	^outMarshaling isNil

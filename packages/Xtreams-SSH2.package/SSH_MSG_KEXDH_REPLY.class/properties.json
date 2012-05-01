@@ -1,0 +1,7 @@
+{	"instvars" : [	"hostKey",
+		"f",
+		"signature" ],
+	"name" : "SSH_MSG_KEXDH_REPLY",
+	"namespace" : "Xtreams",
+	"super" : "SSH2KeyExchangeMessage",
+	"superNamespace" : "Xtreams" }

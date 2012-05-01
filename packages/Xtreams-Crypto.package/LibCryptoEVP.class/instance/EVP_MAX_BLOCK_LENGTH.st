@@ -1,0 +1,4 @@
+defines
+EVP_MAX_BLOCK_LENGTH
+	<C: #define EVP_MAX_BLOCK_LENGTH 32
+	>

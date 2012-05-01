@@ -1,0 +1,8 @@
+{	"imports" : "private UI.*",
+	"instvars" : [	"title",
+		"presenter",
+		"other" ],
+	"name" : "Slide",
+	"namespace" : "Xtreams",
+	"super" : "ApplicationModel",
+	"superNamespace" : "UI" }

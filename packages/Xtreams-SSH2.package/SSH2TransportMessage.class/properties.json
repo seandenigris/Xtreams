@@ -1,0 +1,4 @@
+{	"name" : "SSH2TransportMessage",
+	"namespace" : "Xtreams",
+	"super" : "SSH2Message",
+	"superNamespace" : "Xtreams" }

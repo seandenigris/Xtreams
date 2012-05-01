@@ -1,0 +1,10 @@
+{	"instvars" : [	"waitingLock",
+		"id",
+		"multiplexer",
+		"substreamClosed",
+		"stateLock" ],
+	"name" : "MultiplexReadSubstream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

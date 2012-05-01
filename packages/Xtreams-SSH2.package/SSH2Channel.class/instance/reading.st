@@ -1,0 +1,4 @@
+accessing
+reading
+
+	^dataInReading

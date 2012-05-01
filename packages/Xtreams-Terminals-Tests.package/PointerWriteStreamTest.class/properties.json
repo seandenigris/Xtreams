@@ -1,0 +1,7 @@
+{	"imports" : "private External.*",
+	"instvars" : [	"stream" ],
+	"name" : "PointerWriteStreamTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

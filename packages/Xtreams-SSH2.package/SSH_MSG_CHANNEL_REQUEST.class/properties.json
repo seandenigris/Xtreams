@@ -1,0 +1,6 @@
+{	"instvars" : [	"request",
+		"wantReply" ],
+	"name" : "SSH_MSG_CHANNEL_REQUEST",
+	"namespace" : "Xtreams",
+	"super" : "SSH2ChannelActionMessage",
+	"superNamespace" : "Xtreams" }

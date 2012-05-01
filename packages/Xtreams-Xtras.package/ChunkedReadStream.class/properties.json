@@ -1,0 +1,8 @@
+{	"instvars" : [	"meta",
+		"sourceAtEnd",
+		"available" ],
+	"name" : "ChunkedReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,4 @@
+{	"name" : "ElasticBuffer",
+	"namespace" : "Xtreams",
+	"super" : "RingBuffer",
+	"superNamespace" : "Xtreams" }

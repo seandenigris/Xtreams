@@ -1,0 +1,6 @@
+{	"imports" : "private Tools.BehaviorIcons",
+	"instvars" : [	"destination" ],
+	"name" : "WriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Object" }

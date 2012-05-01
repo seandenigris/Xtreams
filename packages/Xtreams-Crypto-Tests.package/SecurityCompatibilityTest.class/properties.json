@@ -1,0 +1,6 @@
+{	"instvars" : [	"security" ],
+	"name" : "SecurityCompatibilityTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

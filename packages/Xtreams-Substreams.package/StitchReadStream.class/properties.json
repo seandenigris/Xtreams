@@ -1,0 +1,7 @@
+{	"instvars" : [	"active",
+		"contentsSpecies" ],
+	"name" : "StitchReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

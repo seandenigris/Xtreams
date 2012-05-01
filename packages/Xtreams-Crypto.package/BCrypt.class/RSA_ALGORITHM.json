@@ -1,0 +1,9 @@
+{	"category" : "constants",
+	"constant" : true,
+	"initializer" : "| bytes |
+bytes := 'RSA' asCStringEncoding: #utf16.
+(ByteArray newInFixedSpace: bytes size)
+	replaceFrom: 1 to: bytes size with: bytes startingAt: 1;
+	yourself",
+	"name" : "RSA_ALGORITHM",
+	"namespace" : "Xtreams.BCrypt" }

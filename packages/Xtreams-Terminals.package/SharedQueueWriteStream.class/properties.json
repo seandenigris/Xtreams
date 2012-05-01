@@ -1,0 +1,6 @@
+{	"instvars" : [	"contentsSpecies" ],
+	"name" : "SharedQueueWriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

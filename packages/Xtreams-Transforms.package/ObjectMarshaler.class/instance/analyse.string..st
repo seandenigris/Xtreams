@@ -1,0 +1,9 @@
+analyse - complex
+analyse: reading string: aClass
+	<analyse: 'Core.String'>
+	<analyse: 'Core.ByteString'>
+	<analyse: 'Core.TwoByteString'>
+	<analyse: 'Core.FourByteString'>
+
+	| string |
+	reading log: ['string: ', string printString] do: [string := self get: reading string: aClass]

@@ -1,0 +1,5 @@
+{	"imports" : "private XML.*",
+	"name" : "WikiGenerator",
+	"namespace" : "PEG",
+	"super" : "Actor",
+	"superNamespace" : "PEG" }

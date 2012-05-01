@@ -1,0 +1,5 @@
+{	"imports" : "private Tools.Pragma",
+	"name" : "Hash",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Object" }

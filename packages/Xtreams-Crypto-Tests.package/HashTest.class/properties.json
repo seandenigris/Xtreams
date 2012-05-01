@@ -1,0 +1,5 @@
+{	"name" : "HashTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

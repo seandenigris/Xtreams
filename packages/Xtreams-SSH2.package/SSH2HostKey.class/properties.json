@@ -1,0 +1,3 @@
+{	"name" : "SSH2HostKey",
+	"namespace" : "Xtreams",
+	"super" : "Object" }

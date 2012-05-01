@@ -1,0 +1,4 @@
+accessing
+scalingFactor
+
+	^self scale

@@ -1,0 +1,4 @@
+interface opening
+doItReceiver
+
+	^presenter

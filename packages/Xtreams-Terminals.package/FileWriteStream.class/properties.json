@@ -1,0 +1,8 @@
+{	"instvars" : [	"position",
+		"isPositionable",
+		"contentsSpecies" ],
+	"name" : "FileWriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

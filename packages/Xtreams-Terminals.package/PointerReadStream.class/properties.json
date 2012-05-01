@@ -1,0 +1,9 @@
+{	"imports" : "private External.CIntegerType.UnsignedChar",
+	"instvars" : [	"length",
+		"contentsSpecies",
+		"position" ],
+	"name" : "PointerReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

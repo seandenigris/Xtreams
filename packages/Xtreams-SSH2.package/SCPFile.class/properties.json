@@ -1,0 +1,8 @@
+{	"instvars" : [	"path",
+		"name",
+		"length",
+		"incoming" ],
+	"name" : "SCPFile",
+	"namespace" : "Xtreams",
+	"super" : "SSH2Announcement",
+	"superNamespace" : "Xtreams" }

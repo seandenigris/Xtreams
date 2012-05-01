@@ -1,0 +1,7 @@
+{	"instvars" : [	"cache",
+		"readPosition",
+		"writePosition",
+		"dataLength" ],
+	"name" : "Buffer",
+	"namespace" : "Xtreams",
+	"super" : "Object" }

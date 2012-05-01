@@ -1,0 +1,5 @@
+{	"category" : "SSH2 - constants",
+	"constant" : true,
+	"initializer" : "1",
+	"name" : "SSH_EXTENDED_DATA_STDERR",
+	"namespace" : "Xtreams" }

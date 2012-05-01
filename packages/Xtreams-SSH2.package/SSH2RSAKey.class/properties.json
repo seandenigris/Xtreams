@@ -1,0 +1,6 @@
+{	"instvars" : [	"e",
+		"n" ],
+	"name" : "SSH2RSAKey",
+	"namespace" : "Xtreams",
+	"super" : "SSH2HostKey",
+	"superNamespace" : "Xtreams" }

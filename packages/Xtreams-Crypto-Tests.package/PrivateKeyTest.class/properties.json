@@ -1,0 +1,6 @@
+{	"imports" : "private Security.*",
+	"name" : "PrivateKeyTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

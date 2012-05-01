@@ -1,0 +1,4 @@
+private
+serviceRequest
+
+	^SSH_MSG_SERVICE_REQUEST connection

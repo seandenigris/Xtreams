@@ -1,0 +1,6 @@
+{	"instvars" : [	"scale",
+		"scaledQuery" ],
+	"name" : "ScalableCharacterAttributes",
+	"namespace" : "Xtreams",
+	"super" : "CharacterAttributes",
+	"superNamespace" : "Graphics" }

@@ -1,0 +1,7 @@
+{	"instvars" : [	"always_display",
+		"message",
+		"language" ],
+	"name" : "SSH_MSG_DEBUG",
+	"namespace" : "Xtreams",
+	"super" : "SSH2TransportMessage",
+	"superNamespace" : "Xtreams" }

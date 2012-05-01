@@ -1,0 +1,4 @@
+{	"name" : "SSH2MarshalingWriteStreamTest",
+	"namespace" : "Xtreams",
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

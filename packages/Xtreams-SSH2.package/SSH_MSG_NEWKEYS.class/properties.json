@@ -1,0 +1,4 @@
+{	"name" : "SSH_MSG_NEWKEYS",
+	"namespace" : "Xtreams",
+	"super" : "SSH2TransportMessage",
+	"superNamespace" : "Xtreams" }

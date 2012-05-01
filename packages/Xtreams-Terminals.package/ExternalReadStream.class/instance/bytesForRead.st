@@ -1,0 +1,4 @@
+private
+bytesForRead
+
+	^source bytesForRead

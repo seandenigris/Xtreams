@@ -1,0 +1,4 @@
+accessing
+isIncoming
+
+	^incoming

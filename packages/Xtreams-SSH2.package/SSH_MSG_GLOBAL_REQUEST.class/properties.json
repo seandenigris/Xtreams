@@ -1,0 +1,8 @@
+{	"instvars" : [	"name",
+		"wantReply",
+		"address",
+		"port" ],
+	"name" : "SSH_MSG_GLOBAL_REQUEST",
+	"namespace" : "Xtreams",
+	"super" : "SSH2ChannelSetupMessage",
+	"superNamespace" : "Xtreams" }

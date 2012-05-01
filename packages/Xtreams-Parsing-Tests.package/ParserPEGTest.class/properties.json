@@ -1,0 +1,6 @@
+{	"instvars" : [	"parser" ],
+	"name" : "ParserPEGTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

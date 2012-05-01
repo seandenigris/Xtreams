@@ -1,0 +1,6 @@
+{	"instvars" : [	"status" ],
+	"name" : "SSH2ChannelExitStatus",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2ChannelRequest",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,6 @@
+{	"imports" : "private Graphics.TextConstants.*",
+	"instvars" : [	"scale" ],
+	"name" : "ScalableTextAttributes",
+	"namespace" : "Xtreams",
+	"super" : "TextAttributes",
+	"superNamespace" : "Graphics" }

@@ -1,0 +1,4 @@
+private
+processNonData: channel
+
+	^false

@@ -1,0 +1,6 @@
+{	"instvars" : [	"collection" ],
+	"name" : "BlockClosureReadingWritingTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "FiniteReadingWritingTests",
+	"superNamespace" : "Xtreams" }

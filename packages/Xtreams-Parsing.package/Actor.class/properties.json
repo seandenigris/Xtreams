@@ -1,0 +1,4 @@
+{	"instvars" : [	"actions" ],
+	"name" : "Actor",
+	"namespace" : "PEG",
+	"super" : "Object" }

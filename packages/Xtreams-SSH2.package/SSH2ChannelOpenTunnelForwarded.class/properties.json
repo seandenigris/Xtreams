@@ -1,0 +1,9 @@
+{	"instvars" : [	"connectedAddress",
+		"connectedPort",
+		"originatorAddress",
+		"originatorPort" ],
+	"name" : "SSH2ChannelOpenTunnelForwarded",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2ChannelOpenRequest",
+	"superNamespace" : "Xtreams" }

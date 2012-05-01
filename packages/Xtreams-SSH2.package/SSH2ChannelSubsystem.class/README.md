@@ -1,0 +1,3 @@
+Instance Variables
+	name	<String>
+

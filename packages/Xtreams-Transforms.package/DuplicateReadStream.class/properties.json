@@ -1,0 +1,6 @@
+{	"instvars" : [	"duplicate" ],
+	"name" : "DuplicateReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

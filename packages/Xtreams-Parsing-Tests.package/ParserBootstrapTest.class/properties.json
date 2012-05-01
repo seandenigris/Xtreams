@@ -1,0 +1,8 @@
+{	"instvars" : [	"parser",
+		"result",
+		"rule" ],
+	"name" : "ParserBootstrapTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

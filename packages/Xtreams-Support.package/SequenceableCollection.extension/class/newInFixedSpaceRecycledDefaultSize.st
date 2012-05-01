@@ -1,0 +1,4 @@
+xtreams
+newInFixedSpaceRecycledDefaultSize
+
+	^self newInFixedSpaceRecycled: DefaultBufferSize

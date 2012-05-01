@@ -1,0 +1,6 @@
+{	"imports" : "private Tools.Pragma",
+	"instvars" : [	"actions" ],
+	"name" : "DERReadStream",
+	"namespace" : "Xtreams",
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

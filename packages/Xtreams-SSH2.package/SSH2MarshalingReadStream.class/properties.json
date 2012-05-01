@@ -1,0 +1,7 @@
+{	"instvars" : [	"uint32",
+		"uint64" ],
+	"name" : "SSH2MarshalingReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

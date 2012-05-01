@@ -1,0 +1,7 @@
+{	"instvars" : [	"contentsSpecies",
+		"closeBlock" ],
+	"name" : "BlockClosureReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

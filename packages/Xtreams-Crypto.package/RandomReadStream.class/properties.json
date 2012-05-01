@@ -1,0 +1,6 @@
+{	"instvars" : [	"cache" ],
+	"name" : "RandomReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

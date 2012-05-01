@@ -1,0 +1,6 @@
+{	"instvars" : [	"message",
+		"language" ],
+	"name" : "SSH_MSG_USERAUTH_BANNER",
+	"namespace" : "Xtreams",
+	"super" : "SSH2UserAuthenticationMessage",
+	"superNamespace" : "Xtreams" }

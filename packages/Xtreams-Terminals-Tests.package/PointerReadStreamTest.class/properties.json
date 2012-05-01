@@ -1,0 +1,8 @@
+{	"imports" : "private External.*",
+	"instvars" : [	"pointer",
+		"values" ],
+	"name" : "PointerReadStreamTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

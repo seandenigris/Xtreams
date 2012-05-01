@@ -1,0 +1,4 @@
+{	"name" : "FiniteBoundlessReadingWritingTests",
+	"namespace" : "Xtreams",
+	"super" : "FiniteReadingWritingTests",
+	"superNamespace" : "Xtreams" }

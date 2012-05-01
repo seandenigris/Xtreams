@@ -1,0 +1,7 @@
+{	"imports" : "private External.*\\private OS.*",
+	"instvars" : [	"library",
+		"handle" ],
+	"name" : "LibCryptoPrivateKey",
+	"namespace" : "Xtreams",
+	"super" : "PrivateKey",
+	"superNamespace" : "Xtreams" }

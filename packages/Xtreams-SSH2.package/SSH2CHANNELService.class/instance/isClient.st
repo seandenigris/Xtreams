@@ -1,0 +1,4 @@
+accessing
+isClient
+
+	^connection isClient

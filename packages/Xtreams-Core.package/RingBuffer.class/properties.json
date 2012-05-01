@@ -1,0 +1,5 @@
+{	"instvars" : [	"dataPosition" ],
+	"name" : "RingBuffer",
+	"namespace" : "Xtreams",
+	"super" : "Buffer",
+	"superNamespace" : "Xtreams" }

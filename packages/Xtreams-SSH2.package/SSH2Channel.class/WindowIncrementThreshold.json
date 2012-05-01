@@ -1,0 +1,4 @@
+{	"category" : "constants",
+	"initializer" : "2**18",
+	"name" : "WindowIncrementThreshold",
+	"namespace" : "Xtreams.SSH2Channel" }

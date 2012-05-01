@@ -1,0 +1,4 @@
+{	"name" : "NodeBuilder",
+	"namespace" : "PEG",
+	"super" : "Actor",
+	"superNamespace" : "PEG" }

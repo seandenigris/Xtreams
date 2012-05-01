@@ -1,0 +1,6 @@
+{	"instvars" : [	"limit" ],
+	"name" : "LimitReadSubstream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "PositionReadSubstream",
+	"superNamespace" : "Xtreams" }

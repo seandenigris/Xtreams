@@ -1,0 +1,3 @@
+configuration
+configureAnalyse: reading
+	self notYetImplemented

@@ -1,0 +1,8 @@
+{	"instvars" : [	"passwordValidator",
+		"keyValidator",
+		"disconnectSync" ],
+	"name" : "SSH2ServerConnection",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2Connection",
+	"superNamespace" : "Xtreams" }

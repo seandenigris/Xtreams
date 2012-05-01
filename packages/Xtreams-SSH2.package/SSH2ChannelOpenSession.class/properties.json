@@ -1,0 +1,5 @@
+{	"name" : "SSH2ChannelOpenSession",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2ChannelOpenRequest",
+	"superNamespace" : "Xtreams" }

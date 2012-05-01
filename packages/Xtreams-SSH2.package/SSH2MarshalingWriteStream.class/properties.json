@@ -1,0 +1,7 @@
+{	"instvars" : [	"uint32",
+		"uint64" ],
+	"name" : "SSH2MarshalingWriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

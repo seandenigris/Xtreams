@@ -1,0 +1,8 @@
+{	"instvars" : [	"grammar",
+		"stream",
+		"actor",
+		"cache",
+		"caches" ],
+	"name" : "Parser",
+	"namespace" : "PEG",
+	"super" : "Object" }

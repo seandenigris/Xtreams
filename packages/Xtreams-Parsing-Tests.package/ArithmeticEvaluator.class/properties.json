@@ -1,0 +1,5 @@
+{	"classinstvars" : [	"parser" ],
+	"name" : "ArithmeticEvaluator",
+	"namespace" : "PEG",
+	"super" : "Actor",
+	"superNamespace" : "PEG" }

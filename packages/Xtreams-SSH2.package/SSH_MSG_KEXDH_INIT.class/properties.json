@@ -1,0 +1,5 @@
+{	"instvars" : [	"e" ],
+	"name" : "SSH_MSG_KEXDH_INIT",
+	"namespace" : "Xtreams",
+	"super" : "SSH2KeyExchangeMessage",
+	"superNamespace" : "Xtreams" }

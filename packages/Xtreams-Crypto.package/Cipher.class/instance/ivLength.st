@@ -1,0 +1,4 @@
+accessing
+ivLength
+
+	^self subclassResponsibility

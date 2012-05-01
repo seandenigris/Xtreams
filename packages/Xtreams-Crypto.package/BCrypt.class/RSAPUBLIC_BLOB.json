@@ -1,0 +1,4 @@
+{	"category" : "constants",
+	"initializer" : "'RSAPUBLICBLOB' asCStringEncoding: #utf16",
+	"name" : "RSAPUBLIC_BLOB",
+	"namespace" : "Xtreams.BCrypt" }

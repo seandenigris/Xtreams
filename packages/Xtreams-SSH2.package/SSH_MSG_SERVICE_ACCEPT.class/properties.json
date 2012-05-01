@@ -1,0 +1,5 @@
+{	"instvars" : [	"service" ],
+	"name" : "SSH_MSG_SERVICE_ACCEPT",
+	"namespace" : "Xtreams",
+	"super" : "SSH2TransportMessage",
+	"superNamespace" : "Xtreams" }

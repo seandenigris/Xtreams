@@ -1,0 +1,5 @@
+{	"imports" : "private Security.*",
+	"instvars" : [	"keys" ],
+	"name" : "SSH2Keys",
+	"namespace" : "Xtreams",
+	"super" : "Object" }

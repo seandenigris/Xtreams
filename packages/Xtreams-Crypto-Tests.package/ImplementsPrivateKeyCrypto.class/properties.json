@@ -1,0 +1,6 @@
+{	"imports" : "private OS.*",
+	"name" : "ImplementsPrivateKeyCrypto",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestResource",
+	"superNamespace" : "SUnit" }

@@ -1,0 +1,4 @@
+accessing
+ivLength
+
+	^cipher ivLength

@@ -1,0 +1,10 @@
+{	"imports" : "private External.CIntegerType\\private OS.OSHandle\\private OS.Win32SystemSupport\\private External.LibraryNotLoadedError",
+	"instvars" : [	"algorithm",
+		"context",
+		"library",
+		"outLen" ],
+	"name" : "LibCryptoCipher",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Cipher",
+	"superNamespace" : "Xtreams" }

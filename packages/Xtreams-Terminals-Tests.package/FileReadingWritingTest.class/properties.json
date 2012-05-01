@@ -1,0 +1,7 @@
+{	"imports" : "private OS.*",
+	"instvars" : [	"file" ],
+	"name" : "FileReadingWritingTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "FiniteBoundlessReadingWritingTests",
+	"superNamespace" : "Xtreams" }

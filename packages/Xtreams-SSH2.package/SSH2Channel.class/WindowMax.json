@@ -1,0 +1,4 @@
+{	"category" : "constants",
+	"initializer" : "2**21",
+	"name" : "WindowMax",
+	"namespace" : "Xtreams.SSH2Channel" }

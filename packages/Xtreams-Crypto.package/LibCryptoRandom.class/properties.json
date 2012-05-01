@@ -1,0 +1,6 @@
+{	"imports" : "private OS.OSHandle\\private OS.Win32SystemSupport\\private External.LibraryNotLoadedError",
+	"instvars" : [	"library" ],
+	"name" : "LibCryptoRandom",
+	"namespace" : "Xtreams",
+	"super" : "SecureRandom",
+	"superNamespace" : "Xtreams" }

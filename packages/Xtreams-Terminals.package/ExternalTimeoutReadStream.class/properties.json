@@ -1,0 +1,6 @@
+{	"instvars" : [	"timeout" ],
+	"name" : "ExternalTimeoutReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ExternalReadStream",
+	"superNamespace" : "Xtreams" }

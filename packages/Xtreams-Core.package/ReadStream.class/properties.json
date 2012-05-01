@@ -1,0 +1,6 @@
+{	"imports" : "private Tools.BehaviorIcons",
+	"instvars" : [	"source" ],
+	"name" : "ReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Object" }

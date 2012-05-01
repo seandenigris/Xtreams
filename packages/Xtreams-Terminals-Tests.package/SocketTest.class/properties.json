@@ -1,0 +1,9 @@
+{	"imports" : "private OS.*",
+	"instvars" : [	"input",
+		"output",
+		"sockets" ],
+	"name" : "SocketTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

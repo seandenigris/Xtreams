@@ -1,0 +1,6 @@
+{	"imports" : "private OS.*",
+	"name" : "PipeReadingWritingTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "FiniteReadingWritingTests",
+	"superNamespace" : "Xtreams" }

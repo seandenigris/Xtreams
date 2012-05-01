@@ -1,0 +1,12 @@
+{	"imports" : "private OS.IOConstants.*\\private OS.*",
+	"instvars" : [	"encoder",
+		"buffer",
+		"bufferReading",
+		"bufferWriting",
+		"decodedLineEnd",
+		"encodedLineEnd" ],
+	"name" : "EncodeWriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

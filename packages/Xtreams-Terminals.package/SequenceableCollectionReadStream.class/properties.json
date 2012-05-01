@@ -1,0 +1,6 @@
+{	"instvars" : [	"position" ],
+	"name" : "SequenceableCollectionReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

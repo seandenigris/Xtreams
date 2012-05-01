@@ -1,0 +1,7 @@
+{	"instvars" : [	"reason",
+		"description",
+		"language" ],
+	"name" : "SSH_MSG_CHANNEL_OPEN_FAILURE",
+	"namespace" : "Xtreams",
+	"super" : "SSH2ChannelSetupMessage",
+	"superNamespace" : "Xtreams" }

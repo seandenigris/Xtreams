@@ -1,0 +1,4 @@
+{	"name" : "VWEncoderTest",
+	"namespace" : "Xtreams",
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

@@ -1,0 +1,4 @@
+{	"name" : "DuplicateTest",
+	"namespace" : "Xtreams",
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

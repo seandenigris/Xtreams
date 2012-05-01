@@ -1,0 +1,7 @@
+{	"imports" : "private External.*",
+	"instvars" : [	"pointer" ],
+	"name" : "PointerReadingWritingTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "InfiniteReadingWritingTests",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,8 @@
+{	"instvars" : [	"input",
+		"digest",
+		"hash" ],
+	"name" : "DigestReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

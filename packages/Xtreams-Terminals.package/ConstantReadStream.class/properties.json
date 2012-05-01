@@ -1,0 +1,5 @@
+{	"instvars" : [	"contentsSpecies" ],
+	"name" : "ConstantReadStream",
+	"namespace" : "Xtreams",
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

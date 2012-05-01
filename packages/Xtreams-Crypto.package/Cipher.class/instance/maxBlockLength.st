@@ -1,0 +1,4 @@
+accessing
+maxBlockLength
+
+	^self subclassResponsibility

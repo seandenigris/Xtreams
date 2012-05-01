@@ -1,0 +1,3 @@
+types
+BCRYPT_ALG_HANDLE
+	<C: typedef PVOID BCRYPT_ALG_HANDLE>

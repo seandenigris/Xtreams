@@ -1,0 +1,6 @@
+{	"instvars" : [	"position" ],
+	"name" : "PositionWriteSubstream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteSubstream",
+	"superNamespace" : "Xtreams" }

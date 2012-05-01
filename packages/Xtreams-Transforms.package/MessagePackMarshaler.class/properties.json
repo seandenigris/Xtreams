@@ -1,0 +1,7 @@
+{	"imports" : "private Tools.Pragma",
+	"instvars" : [	"unmarshaling",
+		"marshaling",
+		"analysing" ],
+	"name" : "MessagePackMarshaler",
+	"namespace" : "Xtreams",
+	"super" : "Object" }

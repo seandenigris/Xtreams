@@ -1,0 +1,10 @@
+{	"instvars" : [	"substreamAtEnd",
+		"pattern",
+		"candidate",
+		"inclusive",
+		"backtrack" ],
+	"name" : "MatchWriteSubstream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteSubstream",
+	"superNamespace" : "Xtreams" }

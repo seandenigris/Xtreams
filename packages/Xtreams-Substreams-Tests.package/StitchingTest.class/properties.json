@@ -1,0 +1,5 @@
+{	"name" : "StitchingTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

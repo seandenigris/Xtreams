@@ -1,0 +1,8 @@
+reading - complex
+get: reading variablePool: aClass
+	<reads: 'Tools.WorkspaceVariablePool'>
+
+	^aClass new
+		imports: (self get: reading string: String);
+		instVarNamed: 'bindings' put: (self unmarshal: reading);
+		yourself

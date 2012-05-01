@@ -1,0 +1,4 @@
+{	"name" : "SSH2ChannelActionMessage",
+	"namespace" : "Xtreams",
+	"super" : "SSH2ChannelMessage",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,4 @@
+{	"name" : "SSH_MSG_CHANNEL_CLOSE",
+	"namespace" : "Xtreams",
+	"super" : "SSH2ChannelActionMessage",
+	"superNamespace" : "Xtreams" }

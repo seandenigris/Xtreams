@@ -1,0 +1,9 @@
+{	"imports" : "private External.CIntegerType.UnsignedChar\\private OS.*",
+	"instvars" : [	"length",
+		"position",
+		"contentsSpecies" ],
+	"name" : "PointerWriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

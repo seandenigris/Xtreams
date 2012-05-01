@@ -1,0 +1,7 @@
+{	"instvars" : [	"address",
+		"port" ],
+	"name" : "SSH2ChannelOpenX11",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2ChannelOpenRequest",
+	"superNamespace" : "Xtreams" }

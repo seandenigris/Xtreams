@@ -1,0 +1,10 @@
+{	"imports" : "private OS.ZLib.*",
+	"instvars" : [	"zlib",
+		"input",
+		"output",
+		"compression" ],
+	"name" : "CompressWriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

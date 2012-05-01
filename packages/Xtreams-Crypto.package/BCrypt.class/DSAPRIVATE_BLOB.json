@@ -1,0 +1,4 @@
+{	"category" : "constants",
+	"initializer" : "'DSAPRIVATEBLOB' asCStringEncoding: #utf16",
+	"name" : "DSAPRIVATE_BLOB",
+	"namespace" : "Xtreams.BCrypt" }

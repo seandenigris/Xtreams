@@ -1,0 +1,7 @@
+{	"imports" : "private OS.*\\private Kernel.*",
+	"instvars" : [	"keys",
+		"debugging" ],
+	"name" : "SSH2ConnectionTest",
+	"namespace" : "Xtreams",
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

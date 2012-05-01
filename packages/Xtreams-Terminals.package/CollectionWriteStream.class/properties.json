@@ -1,0 +1,5 @@
+{	"name" : "CollectionWriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

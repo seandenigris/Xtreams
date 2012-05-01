@@ -1,0 +1,4 @@
+private
+serviceRequest
+
+	self subclassResponsibility

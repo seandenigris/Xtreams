@@ -1,0 +1,12 @@
+{	"instvars" : [	"process",
+		"current",
+		"contentsSpecies",
+		"writing",
+		"readingSemaphore",
+		"writingSemaphore",
+		"closed" ],
+	"name" : "BlockClosureGenerateStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

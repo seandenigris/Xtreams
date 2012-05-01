@@ -1,0 +1,6 @@
+{	"instvars" : [	"contentsSpecies" ],
+	"name" : "ExternalWriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

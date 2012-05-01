@@ -1,0 +1,8 @@
+{	"instvars" : [	"nextID",
+		"channels",
+		"forwards" ],
+	"name" : "SSH2CHANNELService",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2Service",
+	"superNamespace" : "Xtreams" }

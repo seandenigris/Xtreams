@@ -1,0 +1,5 @@
+{	"name" : "CipherTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

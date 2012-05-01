@@ -1,0 +1,10 @@
+{	"instvars" : [	"stream",
+		"marshaling",
+		"log",
+		"bytes",
+		"marshaler" ],
+	"name" : "MessagePackMarshalerTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

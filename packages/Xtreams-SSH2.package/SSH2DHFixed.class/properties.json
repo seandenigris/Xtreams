@@ -1,0 +1,11 @@
+{	"instvars" : [	"p",
+		"g",
+		"exponent",
+		"f",
+		"e",
+		"k" ],
+	"name" : "SSH2DHFixed",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2KeyExchange",
+	"superNamespace" : "Xtreams" }

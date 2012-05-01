@@ -1,0 +1,7 @@
+{	"instvars" : [	"user",
+		"service" ],
+	"name" : "SSH2USERAUTHService",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2Service",
+	"superNamespace" : "Xtreams" }

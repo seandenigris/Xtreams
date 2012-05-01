@@ -1,0 +1,7 @@
+{	"instvars" : [	"contentsSpecies",
+		"closeBlock" ],
+	"name" : "BlockClosureWriteStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

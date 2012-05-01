@@ -1,0 +1,4 @@
+{	"name" : "SCPTest",
+	"namespace" : "Xtreams",
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

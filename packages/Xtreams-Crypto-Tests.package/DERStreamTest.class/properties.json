@@ -1,0 +1,5 @@
+{	"name" : "DERStreamTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

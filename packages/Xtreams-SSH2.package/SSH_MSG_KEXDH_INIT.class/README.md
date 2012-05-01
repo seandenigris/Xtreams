@@ -1,0 +1,3 @@
+Instance Variables
+	e	<LargePositiveInteger>
+

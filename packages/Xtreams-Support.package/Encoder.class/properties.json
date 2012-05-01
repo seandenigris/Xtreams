@@ -1,0 +1,4 @@
+{	"name" : "Encoder",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Object" }

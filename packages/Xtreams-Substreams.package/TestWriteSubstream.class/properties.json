@@ -1,0 +1,8 @@
+{	"instvars" : [	"substreamAtEnd",
+		"test",
+		"inclusive" ],
+	"name" : "TestWriteSubstream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "WriteSubstream",
+	"superNamespace" : "Xtreams" }

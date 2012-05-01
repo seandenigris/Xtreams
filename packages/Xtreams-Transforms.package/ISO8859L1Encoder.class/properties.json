@@ -1,0 +1,5 @@
+{	"name" : "ISO8859L1Encoder",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Encoder",
+	"superNamespace" : "Xtreams" }

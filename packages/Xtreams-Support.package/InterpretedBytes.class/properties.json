@@ -1,0 +1,5 @@
+{	"name" : "InterpretedBytes",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "UninterpretedBytes",
+	"type" : "bytes" }

@@ -1,0 +1,6 @@
+{	"instvars" : [	"contentsSpecies" ],
+	"name" : "SharedQueueReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

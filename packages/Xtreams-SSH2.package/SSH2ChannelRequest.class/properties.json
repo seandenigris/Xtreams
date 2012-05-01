@@ -1,0 +1,4 @@
+{	"name" : "SSH2ChannelRequest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Object" }

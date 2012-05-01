@@ -1,0 +1,5 @@
+{	"name" : "NativeSecurityLoaded",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestResource",
+	"superNamespace" : "SUnit" }

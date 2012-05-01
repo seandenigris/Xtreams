@@ -1,0 +1,4 @@
+defines
+HMAC_MAX_MD_CBLOCK
+	<C: #define HMAC_MAX_MD_CBLOCK  128
+	>

@@ -1,0 +1,10 @@
+{	"instvars" : [	"algorithm",
+		"key",
+		"host",
+		"user",
+		"signature" ],
+	"name" : "SSH2HostBasedAuthentication",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2Authentication",
+	"superNamespace" : "Xtreams" }

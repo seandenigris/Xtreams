@@ -1,0 +1,6 @@
+{	"imports" : "private PEG.SlideGenerator\\private Graphics.*",
+	"instvars" : [	"text" ],
+	"name" : "TextSlide",
+	"namespace" : "Xtreams",
+	"super" : "Slide",
+	"superNamespace" : "Xtreams" }

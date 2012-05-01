@@ -1,0 +1,4 @@
+accessing
+scpFileReceiver
+
+	^connection configuration scpFileReceiver

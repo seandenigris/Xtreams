@@ -1,0 +1,6 @@
+{	"instvars" : [	"position" ],
+	"name" : "FileReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ExternalReadStream",
+	"superNamespace" : "Xtreams" }

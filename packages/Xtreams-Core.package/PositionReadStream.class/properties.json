@@ -1,0 +1,6 @@
+{	"instvars" : [	"buffer" ],
+	"name" : "PositionReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

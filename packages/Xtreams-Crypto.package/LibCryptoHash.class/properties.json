@@ -1,0 +1,9 @@
+{	"imports" : "private OS.OSHandle\\private External.LibraryNotLoadedError\\private OS.Win32SystemSupport",
+	"instvars" : [	"library",
+		"context",
+		"algorithm" ],
+	"name" : "LibCryptoHash",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Hash",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,11 @@
+{	"instvars" : [	"term",
+		"columns",
+		"rows",
+		"width",
+		"height",
+		"modes" ],
+	"name" : "SSH2ChannelPty",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2ChannelRequest",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,12 @@
+{	"imports" : "private OS.IOConstants.*",
+	"instvars" : [	"transparent",
+		"crPreceeding",
+		"encoder",
+		"buffer",
+		"bufferWriting",
+		"bufferReading" ],
+	"name" : "EncodeReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

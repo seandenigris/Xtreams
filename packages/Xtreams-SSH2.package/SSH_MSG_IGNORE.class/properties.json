@@ -1,0 +1,5 @@
+{	"instvars" : [	"data" ],
+	"name" : "SSH_MSG_IGNORE",
+	"namespace" : "Xtreams",
+	"super" : "SSH2TransportMessage",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,7 @@
+{	"instvars" : [	"password",
+		"newPassword" ],
+	"name" : "SSH2PasswordAuthentication",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2Authentication",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,4 @@
+xtreams
+streamingWriteClose
+
+	self close

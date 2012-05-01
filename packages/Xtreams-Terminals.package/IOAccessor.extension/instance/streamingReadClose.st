@@ -1,0 +1,4 @@
+xtreams
+streamingReadClose
+
+	self close

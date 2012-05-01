@@ -1,0 +1,5 @@
+{	"instvars" : [	"key" ],
+	"name" : "SSH_MSG_USERAUTH_PK_OK",
+	"namespace" : "Xtreams",
+	"super" : "SSH2UserAuthenticationMessage",
+	"superNamespace" : "Xtreams" }

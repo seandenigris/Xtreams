@@ -1,0 +1,12 @@
+{	"imports" : "private External.CIntegerType\\private OS.OSHandle\\private OS.Win32SystemSupport",
+	"instvars" : [	"library",
+		"provider",
+		"handle",
+		"object",
+		"objectLength",
+		"key" ],
+	"name" : "BCryptHash",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Hash",
+	"superNamespace" : "Xtreams" }

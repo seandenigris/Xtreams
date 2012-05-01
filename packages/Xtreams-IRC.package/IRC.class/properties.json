@@ -1,0 +1,5 @@
+{	"instvars" : [	"output",
+		"mutex" ],
+	"name" : "IRC",
+	"namespace" : "Xtreams",
+	"super" : "Object" }

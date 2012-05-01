@@ -1,0 +1,3 @@
+{	"name" : "Timeout",
+	"namespace" : "Xtreams",
+	"super" : "Error" }

@@ -1,0 +1,5 @@
+{	"name" : "BufferedWriteStreamTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

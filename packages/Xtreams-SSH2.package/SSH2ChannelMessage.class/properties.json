@@ -1,0 +1,5 @@
+{	"instvars" : [	"id" ],
+	"name" : "SSH2ChannelMessage",
+	"namespace" : "Xtreams",
+	"super" : "SSH2Message",
+	"superNamespace" : "Xtreams" }

@@ -1,0 +1,6 @@
+{	"classinstvars" : [	"parser" ],
+	"imports" : "private OS.IOConstants.*",
+	"name" : "SlideGenerator",
+	"namespace" : "PEG",
+	"super" : "Actor",
+	"superNamespace" : "PEG" }

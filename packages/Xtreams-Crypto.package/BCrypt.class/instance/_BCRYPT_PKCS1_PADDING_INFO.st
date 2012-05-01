@@ -1,0 +1,5 @@
+structs
+_BCRYPT_PKCS1_PADDING_INFO
+	<C: struct _BCRYPT_PKCS1_PADDING_INFO {
+			LPCWSTR pszAlgId;
+		}>

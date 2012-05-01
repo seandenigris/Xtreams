@@ -1,0 +1,5 @@
+{	"name" : "PositionReadStreamTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

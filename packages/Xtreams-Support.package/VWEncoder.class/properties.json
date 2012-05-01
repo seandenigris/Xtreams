@@ -1,0 +1,8 @@
+{	"instvars" : [	"encoder",
+		"skipRecord",
+		"backupRecord" ],
+	"name" : "VWEncoder",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Encoder",
+	"superNamespace" : "Xtreams" }

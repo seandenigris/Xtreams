@@ -1,0 +1,7 @@
+{	"instvars" : [	"parser",
+		"references",
+		"useCache" ],
+	"name" : "ParserParser",
+	"namespace" : "PEG",
+	"super" : "Actor",
+	"superNamespace" : "PEG" }

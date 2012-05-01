@@ -1,0 +1,4 @@
+{	"category" : "constants",
+	"initializer" : "'DHPUBLICBLOB' asCStringEncoding: #utf16",
+	"name" : "DHPUBLIC_BLOB",
+	"namespace" : "Xtreams.BCrypt" }

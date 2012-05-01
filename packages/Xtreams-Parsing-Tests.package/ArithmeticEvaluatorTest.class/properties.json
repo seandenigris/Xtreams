@@ -1,0 +1,5 @@
+{	"name" : "ArithmeticEvaluatorTest",
+	"namespace" : "PEG",
+	"private" : true,
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

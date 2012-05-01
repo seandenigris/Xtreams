@@ -1,0 +1,8 @@
+{	"imports" : "private OS.ZLib.ZLibInterface",
+	"instvars" : [	"library",
+		"inflating",
+		"finished" ],
+	"name" : "Compression",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "Object" }

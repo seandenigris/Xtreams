@@ -1,0 +1,4 @@
+{	"name" : "SSH2PacketReadWriteTest",
+	"namespace" : "Xtreams",
+	"super" : "TestCase",
+	"superNamespace" : "SUnit" }

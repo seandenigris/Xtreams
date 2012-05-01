@@ -1,0 +1,7 @@
+{	"instvars" : [	"senderID",
+		"windowSize",
+		"maxPacketSize" ],
+	"name" : "SSH_MSG_CHANNEL_OPEN_CONFIRMATION",
+	"namespace" : "Xtreams",
+	"super" : "SSH2ChannelSetupMessage",
+	"superNamespace" : "Xtreams" }

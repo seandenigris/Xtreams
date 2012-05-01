@@ -1,0 +1,7 @@
+{	"imports" : "private OS.OSHandle\\private OS.Win32SystemSupport",
+	"instvars" : [	"library",
+		"provider" ],
+	"name" : "BCryptRandom",
+	"namespace" : "Xtreams",
+	"super" : "SecureRandom",
+	"superNamespace" : "Xtreams" }

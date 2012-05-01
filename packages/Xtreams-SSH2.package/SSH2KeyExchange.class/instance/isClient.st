@@ -1,0 +1,4 @@
+services
+isClient
+
+	^connection isClient

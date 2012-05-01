@@ -1,0 +1,7 @@
+{	"imports" : "private Tools.Pragma",
+	"instvars" : [	"actions",
+		"sizes" ],
+	"name" : "DERWriteStream",
+	"namespace" : "Xtreams",
+	"super" : "WriteStream",
+	"superNamespace" : "Xtreams" }

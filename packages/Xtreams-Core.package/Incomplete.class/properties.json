@@ -1,0 +1,6 @@
+{	"instvars" : [	"collection",
+		"count",
+		"start" ],
+	"name" : "Incomplete",
+	"namespace" : "Xtreams",
+	"super" : "Error" }

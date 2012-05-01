@@ -1,0 +1,6 @@
+{	"instvars" : [	"queue" ],
+	"name" : "SharedQueueReadingWritingTest",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "InfiniteReadingWritingTests",
+	"superNamespace" : "Xtreams" }

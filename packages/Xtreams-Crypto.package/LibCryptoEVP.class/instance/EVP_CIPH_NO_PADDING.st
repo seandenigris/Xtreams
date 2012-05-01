@@ -1,0 +1,4 @@
+defines
+EVP_CIPH_NO_PADDING
+	<C: #define EVP_CIPH_NO_PADDING 256
+	>

@@ -1,0 +1,8 @@
+{	"imports" : "private OS.IOConstants.*",
+	"instvars" : [	"session",
+		"in",
+		"out",
+		"path" ],
+	"name" : "SCP",
+	"namespace" : "Xtreams",
+	"super" : "Object" }

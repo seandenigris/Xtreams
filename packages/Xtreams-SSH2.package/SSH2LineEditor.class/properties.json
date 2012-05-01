@@ -1,0 +1,12 @@
+{	"classinstvars" : [	"prompt",
+		"controlActions",
+		"escapeActions" ],
+	"imports" : "private Tools.Pragma\\private OS.IOConstants.*",
+	"instvars" : [	"pty",
+		"input",
+		"output",
+		"prompt",
+		"line" ],
+	"name" : "SSH2LineEditor",
+	"namespace" : "Xtreams",
+	"super" : "Object" }

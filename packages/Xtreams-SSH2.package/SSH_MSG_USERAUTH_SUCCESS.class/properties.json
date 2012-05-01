@@ -1,0 +1,4 @@
+{	"name" : "SSH_MSG_USERAUTH_SUCCESS",
+	"namespace" : "Xtreams",
+	"super" : "SSH2UserAuthenticationMessage",
+	"superNamespace" : "Xtreams" }

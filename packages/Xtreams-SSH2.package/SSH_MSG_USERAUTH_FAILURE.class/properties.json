@@ -1,0 +1,6 @@
+{	"instvars" : [	"continue",
+		"partialSuccess" ],
+	"name" : "SSH_MSG_USERAUTH_FAILURE",
+	"namespace" : "Xtreams",
+	"super" : "SSH2UserAuthenticationMessage",
+	"superNamespace" : "Xtreams" }

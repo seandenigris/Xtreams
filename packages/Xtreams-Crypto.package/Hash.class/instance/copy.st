@@ -1,0 +1,4 @@
+accessing
+copy
+
+	^self subclassResponsibility

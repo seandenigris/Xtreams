@@ -1,0 +1,9 @@
+{	"instvars" : [	"singleConnection",
+		"authentication",
+		"cookie",
+		"screen" ],
+	"name" : "SSH2ChannelX11Request",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "SSH2ChannelRequest",
+	"superNamespace" : "Xtreams" }

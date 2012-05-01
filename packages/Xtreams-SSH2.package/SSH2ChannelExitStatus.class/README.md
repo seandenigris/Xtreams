@@ -1,0 +1,3 @@
+Instance Variables
+	status	<SmallInteger>
+

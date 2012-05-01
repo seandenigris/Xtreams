@@ -1,0 +1,9 @@
+{	"instvars" : [	"block",
+		"cache",
+		"contentsSpecies",
+		"direct" ],
+	"name" : "CollectReadStream",
+	"namespace" : "Xtreams",
+	"private" : true,
+	"super" : "ReadStream",
+	"superNamespace" : "Xtreams" }

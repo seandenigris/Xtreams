@@ -1,0 +1,4 @@
+accessing
+isSuccess
+
+	^false

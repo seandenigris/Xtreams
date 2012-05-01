@@ -1,0 +1,4 @@
+{	"name" : "ParserGenerator",
+	"namespace" : "PEG",
+	"super" : "Actor",
+	"superNamespace" : "PEG" }

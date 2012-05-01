@@ -1,0 +1,3 @@
+types
+BCRYPT_KEY_HANDLE
+	<C: typedef PVOID BCRYPT_KEY_HANDLE>
