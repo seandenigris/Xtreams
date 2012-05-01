@@ -1,20 +1,4 @@
-{	"disregardedPrerequisites" : [	[	"name",
-			"DH",
-			"componentType",
-			"package" ],
-		[	"name",
-			"DSA",
-			"componentType",
-			"package" ],
-		[	"name",
-			"RSA",
-			"componentType",
-			"package" ],
-		[	"name",
-			"SecurityBase",
-			"componentType",
-			"package" ] ],
-	"notice" : "The MIT License
+{	"notice" : "The MIT License
 
 Copyright (c) 2012 Cincom Systems, Martin Kobetic and Michael Lucas-Smith
 
